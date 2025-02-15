@@ -120,6 +120,7 @@
 3. Orozco, C. *Geometría con GeoGebra.*
 4. Lang, S. *Undergraduate Algebra.*
 5. Documentación oficial de GeoGebra y SymPy.
+6. [Rodolfo Londoño. Módulo 1](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://deymerg.wordpress.com/wp-content/uploads/2011/07/geucap01.pdf)
 
 Este programa combina **GeoGebra** y **Python** para el aprendizaje activo de la geometría, permitiendo a los futuros licenciados en matemáticas experimentar, visualizar y programar conceptos geométricos en un entorno dinámico.
 
